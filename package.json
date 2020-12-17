@@ -1,0 +1,20 @@
+{
+  "name": "random-spinny-thingy-electron",
+  "version": "1.0.0",
+  "description": "A simple interactive (using CSS) Electron app with animations (also using CSS).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catruge/random-spinny-thingy-electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catruge/random-spinny-thingy-electron/issues"
+  },
+  "homepage": "https://github.com/catruge/random-spinny-thingy-electron#readme"
+}
