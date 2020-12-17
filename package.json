@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/catruge/random-spinny-thingy-electron/issues"
   },
-  "homepage": "https://github.com/catruge/random-spinny-thingy-electron#readme"
+  "homepage": "https://github.com/catruge/random-spinny-thingy-electron#readme",
+  "dependencies": {
+    "electron": "^11.1.0"
+  }
 }
