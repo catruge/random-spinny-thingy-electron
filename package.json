@@ -4,7 +4,7 @@
   "description": "A simple interactive (using CSS) Electron app with animations (also using CSS).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
